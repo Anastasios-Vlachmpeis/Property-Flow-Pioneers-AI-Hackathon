@@ -1,4 +1,4 @@
-# Property Flow Pioneers — AI-Powered Property Management Platform
+# Property Flow ~ AI-Powered Property Management Platform
 
 A comprehensive property management automation platform for vacation rentals. This full-stack application combines a modern React dashboard with a FastAPI backend featuring autonomous AI agents to streamline listing management, pricing optimization, guest communication, and operational workflows.
 
